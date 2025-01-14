@@ -1,4 +1,5 @@
 # gopsutil: psutil for golang
+fork by gopsutil
 
 [![Test](https://github.com/shirou/gopsutil/actions/workflows/test.yml/badge.svg)](https://github.com/shirou/gopsutil/actions/workflows/test.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/tyz-coder/gopsutil/v4.svg)](https://pkg.go.dev/github.com/tyz-coder/gopsutil/v4) [![Calendar Versioning](https://img.shields.io/badge/calver-vMAJOR.YY.MM-22bfda.svg)](https://calver.org/)
 
