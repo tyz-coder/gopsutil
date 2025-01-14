@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/shirou/gopsutil/v4/common"
+	"github.com/tyz-coder/gopsutil/v4/common"
 )
 
 func TestReadlines(t *testing.T) {

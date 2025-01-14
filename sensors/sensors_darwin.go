@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/shirou/gopsutil/v4/internal/common"
+	"github.com/tyz-coder/gopsutil/v4/internal/common"
 )
 
 func TemperaturesWithContext(ctx context.Context) ([]TemperatureStat, error) {

@@ -22,7 +22,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/shirou/gopsutil/v4/internal/common"
+	"github.com/tyz-coder/gopsutil/v4/internal/common"
 )
 
 var mu sync.Mutex

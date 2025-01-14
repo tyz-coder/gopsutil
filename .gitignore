@@ -3,4 +3,5 @@
 _obj
 *.tmp
 .idea
+.vscode
 vendor
